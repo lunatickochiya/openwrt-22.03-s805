@@ -34,3 +34,4 @@ git-src
 .vscode*
 /package/kochiya/*
 /.config-*
+/compile.log
